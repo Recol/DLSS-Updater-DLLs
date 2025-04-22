@@ -1,0 +1,44 @@
+{
+    "nvngx_dlss.dll": {
+      "version": "3.17.20.0",
+      "date": "2025-04-01",
+      "description": "NVIDIA DLSS Core DLL",
+      "technology": "DLSS"
+    },
+    "nvngx_dlssg.dll": {
+      "version": "3.8.1.0",
+      "date": "2025-04-01",
+      "description": "NVIDIA DLSS Frame Generation DLL",
+      "technology": "DLSS"    
+    },
+    "nvngx_dlssd.dll": {
+      "version": "3.17.10.0",
+      "date": "2025-04-01",
+      "description": "NVIDIA DLSS Ray Reconstruction DLL",
+      "technology": "DLSS"
+    },
+    "dstorage.dll": {
+      "version": "1.2.4",
+      "date": "2025-04-01",
+      "description": "Microsoft DirectStorage DLL",
+      "technology": "DirectStorage"
+    },
+    "dstoragecore.dll": {
+      "version": "1.2.4",
+      "date": "2025-04-01",
+      "description": "Microsoft DirectStorage Core DLL",
+      "technology": "DirectStorage"
+    },
+    "libxess.dll": {
+      "version": "2.0.1.41",
+      "date": "2025-04-05",
+      "description": "Intel XeSS DLL",
+      "technology": "XeSS"
+    },
+    "libxess_dx11.dll": {
+      "version": "1.0.0",
+      "date": "2025-04-01",
+      "description": "Intel XeSS DirectX 11 DLL",
+      "technology": "XeSS"
+}
+}
