@@ -18,13 +18,13 @@
       "technology": "DLSS"
     },
     "dstorage.dll": {
-      "version": "1.2.4",
+      "version": "1.2.2504.401",
       "date": "2025-04-01",
       "description": "Microsoft DirectStorage DLL",
       "technology": "DirectStorage"
     },
     "dstoragecore.dll": {
-      "version": "1.2.4",
+      "version": "1.2.2504.401",
       "date": "2025-04-01",
       "description": "Microsoft DirectStorage Core DLL",
       "technology": "DirectStorage"
