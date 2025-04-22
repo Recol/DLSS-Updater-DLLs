@@ -1,18 +1,18 @@
 {
     "nvngx_dlss.dll": {
-      "version": "3.17.20.0",
+      "version": "310.2.1.0",
       "date": "2025-04-01",
       "description": "NVIDIA DLSS Core DLL",
       "technology": "DLSS"
     },
     "nvngx_dlssg.dll": {
-      "version": "3.8.1.0",
+      "version": "310.2.1.0",
       "date": "2025-04-01",
       "description": "NVIDIA DLSS Frame Generation DLL",
       "technology": "DLSS"    
     },
     "nvngx_dlssd.dll": {
-      "version": "3.17.10.0",
+      "version": "310.2.1.0",
       "date": "2025-04-01",
       "description": "NVIDIA DLSS Ray Reconstruction DLL",
       "technology": "DLSS"
