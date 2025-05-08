@@ -1,44 +1,80 @@
 {
     "nvngx_dlss.dll": {
-      "version": "310.2.1.0",
-      "date": "2025-04-01",
-      "description": "NVIDIA DLSS Core DLL",
-      "technology": "DLSS"
+        "version": "310.2.1.0",
+        "date": "2025-04-01",
+        "description": "NVIDIA DLSS Core DLL",
+        "technology": "DLSS"
     },
     "nvngx_dlssg.dll": {
-      "version": "310.2.1.0",
-      "date": "2025-04-01",
-      "description": "NVIDIA DLSS Frame Generation DLL",
-      "technology": "DLSS"    
+        "version": "310.2.1.0",
+        "date": "2025-04-01",
+        "description": "NVIDIA DLSS Frame Generation DLL",
+        "technology": "DLSS"
     },
     "nvngx_dlssd.dll": {
-      "version": "310.2.1.0",
-      "date": "2025-04-01",
-      "description": "NVIDIA DLSS Ray Reconstruction DLL",
-      "technology": "DLSS"
+        "version": "310.2.1.0",
+        "date": "2025-04-01",
+        "description": "NVIDIA DLSS Ray Reconstruction DLL",
+        "technology": "DLSS"
     },
     "dstorage.dll": {
-      "version": "1.2.2504.401",
-      "date": "2025-04-01",
-      "description": "Microsoft DirectStorage DLL",
-      "technology": "DirectStorage"
+        "version": "1.2.2504.401",
+        "date": "2025-04-01",
+        "description": "Microsoft DirectStorage DLL",
+        "technology": "DirectStorage"
     },
     "dstoragecore.dll": {
-      "version": "1.2.2504.401",
-      "date": "2025-04-01",
-      "description": "Microsoft DirectStorage Core DLL",
-      "technology": "DirectStorage"
+        "version": "1.2.2504.401",
+        "date": "2025-04-01",
+        "description": "Microsoft DirectStorage Core DLL",
+        "technology": "DirectStorage"
     },
     "libxess.dll": {
-      "version": "2.0.1.41",
-      "date": "2025-04-05",
-      "description": "Intel XeSS DLL",
-      "technology": "XeSS"
+        "version": "2.0.1.41",
+        "date": "2025-04-05",
+        "description": "Intel XeSS DLL",
+        "technology": "XeSS"
     },
     "libxess_dx11.dll": {
-      "version": "2.0.1.41",
-      "date": "2025-04-01",
-      "description": "Intel XeSS DirectX 11 DLL",
-      "technology": "XeSS"
-}
+        "version": "2.0.1.41",
+        "date": "2025-04-01",
+        "description": "Intel XeSS DirectX 11 DLL",
+        "technology": "XeSS"
+    },
+    "sl.common.dll": {
+        "version": "2.7.30.0",
+        "date": "2025-05-08",
+        "description": "Streamline Shared Library",
+        "technology": "DLSS"
+    },
+    "sl.dlss.dll": {
+        "version": "2.7.30.0",
+        "date": "2025-05-08",
+        "description": "Streamline DLSS Super Resolution",
+        "technology": "DLSS"
+    },
+    "sl.dlss_g.dll": {
+        "version": "2.7.30.0",
+        "date": "2025-05-08",
+        "description": "Streamline DLSS Frame Generation",
+        "technology": "DLSS"
+    },
+    "sl.interposer.dll": {
+        "version": "2.7.30.0",
+        "date": "2025-05-08",
+        "description": "Streamline Graphics API Interception",
+        "technology": "DLSS"
+    },
+    "sl.pcl.dll": {
+        "version": "2.7.30.0",
+        "date": "2025-05-08",
+        "description": "Streamline Parameter/Platform Configuration",
+        "technology": "DLSS"
+    },
+    "sl.reflex.dll": {
+        "version": "2.7.30.0",
+        "date": "2025-05-08",
+        "description": "Streamline Reflex Low-Latency",
+        "technology": "DLSS"
+    }
 }
