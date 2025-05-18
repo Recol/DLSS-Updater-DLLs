@@ -77,10 +77,10 @@
         "description": "Streamline Reflex Low-Latency",
         "technology": "DLSS"
     },
-    "amd_fidelityfx.dll": {
+    "amd_fidelityfx_vk.dll": {
         "version": "1.0.1.4314",
         "date": "2025-05-18",
-        "description": "AMD FidelityFX Super Resolution (FSR) DLL",
+        "description": "AMD FidelityFX Super Resolution (FSR) Vulkan DLL",
         "technology": "FSR"
     },
     "amd_fidelityfx_dx12.dll": {
