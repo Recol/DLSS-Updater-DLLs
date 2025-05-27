@@ -45,37 +45,37 @@
         "version": "2.7.30.0",
         "date": "2025-05-08",
         "description": "Streamline Shared Library",
-        "technology": "DLSS"
+        "technology": "Streamline"
     },
     "sl.dlss.dll": {
         "version": "2.7.30.0",
         "date": "2025-05-08",
         "description": "Streamline DLSS Super Resolution",
-        "technology": "DLSS"
+        "technology": "Streamline"
     },
     "sl.dlss_g.dll": {
         "version": "2.7.30.0",
         "date": "2025-05-08",
         "description": "Streamline DLSS Frame Generation",
-        "technology": "DLSS"
+        "technology": "Streamline"
     },
     "sl.interposer.dll": {
         "version": "2.7.30.0",
         "date": "2025-05-08",
         "description": "Streamline Graphics API Interception",
-        "technology": "DLSS"
+        "technology": "Streamline"
     },
     "sl.pcl.dll": {
         "version": "2.7.30.0",
         "date": "2025-05-08",
         "description": "Streamline Parameter/Platform Configuration",
-        "technology": "DLSS"
+        "technology": "Streamline"
     },
     "sl.reflex.dll": {
         "version": "2.7.30.0",
         "date": "2025-05-08",
         "description": "Streamline Reflex Low-Latency",
-        "technology": "DLSS"
+        "technology": "Streamline"
     },
     "amd_fidelityfx_vk.dll": {
         "version": "1.0.1.4314",
