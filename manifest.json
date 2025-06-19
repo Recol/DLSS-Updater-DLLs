@@ -1,7 +1,7 @@
 {
     "nvngx_dlss.dll": {
-        "version": "310.2.1.0",
-        "date": "2025-04-01",
+        "version": "310.3.0.0",
+        "date": "2025-06-20",
         "description": "NVIDIA DLSS Core DLL",
         "technology": "DLSS"
     },
