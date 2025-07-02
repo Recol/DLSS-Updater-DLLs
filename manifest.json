@@ -77,6 +77,24 @@
         "description": "Streamline Reflex Low-Latency",
         "technology": "Streamline"
     },
+    "sl.nis.dll": {
+        "version": "2.8.0.0",
+        "date": "2025-06-20",
+        "description": "Streamline NIS Upscaling",
+        "technology": "Streamline"
+    },
+    "sl.dlss_d.dll": {
+        "version": "2.8.0.0",
+        "date": "2025-06-20",
+        "description": "Streamline DLSS Dynamic Resolution",
+        "technology": "Streamline"
+    },
+    "sl.directsr.dll": {
+        "version": "2.8.0.0",
+        "date": "2025-06-20",
+        "description": "Streamline Direct Super Resolution",
+        "technology": "Streamline"
+    },
     "amd_fidelityfx_vk.dll": {
         "version": "1.0.1.4314",
         "date": "2025-05-18",
