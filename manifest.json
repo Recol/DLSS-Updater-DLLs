@@ -1,31 +1,31 @@
 {
     "nvngx_dlss.dll": {
-        "version": "310.3.0.0",
-        "date": "2025-06-20",
+        "version": "310.4.0.0",
+        "date": "2025-08-28",
         "description": "NVIDIA DLSS Core DLL",
         "technology": "DLSS"
     },
     "nvngx_dlssg.dll": {
-        "version": "310.3.0.0",
-        "date": "2025-06-20",
+        "version": "310.4.0.0",
+        "date": "2025-08-28",
         "description": "NVIDIA DLSS Frame Generation DLL",
         "technology": "DLSS"
     },
     "nvngx_dlssd.dll": {
-        "version": "310.3.0.0",
-        "date": "2025-06-20",
+        "version": "310.4.0.0",
+        "date": "2025-08-28",
         "description": "NVIDIA DLSS Ray Reconstruction DLL",
         "technology": "DLSS"
     },
     "dstorage.dll": {
-        "version": "1.2.2504.401",
-        "date": "2025-04-01",
+        "version": "1.3.2506.2501",
+        "date": "2025-08-28",
         "description": "Microsoft DirectStorage DLL",
         "technology": "DirectStorage"
     },
     "dstoragecore.dll": {
-        "version": "1.2.2504.401",
-        "date": "2025-04-01",
+        "version": "1.3.2506.2501",
+        "date": "2025-08-28",
         "description": "Microsoft DirectStorage Core DLL",
         "technology": "DirectStorage"
     },
