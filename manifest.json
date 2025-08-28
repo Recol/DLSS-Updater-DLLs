@@ -1,110 +1,132 @@
-{
-    "nvngx_dlss.dll": {
-        "version": "310.4.0.0",
-        "date": "2025-08-28",
-        "description": "NVIDIA DLSS Core DLL",
-        "technology": "DLSS"
-    },
-    "nvngx_dlssg.dll": {
-        "version": "310.4.0.0",
-        "date": "2025-08-28",
-        "description": "NVIDIA DLSS Frame Generation DLL",
-        "technology": "DLSS"
-    },
-    "nvngx_dlssd.dll": {
-        "version": "310.4.0.0",
-        "date": "2025-08-28",
-        "description": "NVIDIA DLSS Ray Reconstruction DLL",
-        "technology": "DLSS"
-    },
-    "dstorage.dll": {
-        "version": "1.3.2506.2501",
-        "date": "2025-08-28",
-        "description": "Microsoft DirectStorage DLL",
-        "technology": "DirectStorage"
-    },
-    "dstoragecore.dll": {
-        "version": "1.3.2506.2501",
-        "date": "2025-08-28",
-        "description": "Microsoft DirectStorage Core DLL",
-        "technology": "DirectStorage"
-    },
-    "libxess.dll": {
-        "version": "2.0.1.41",
-        "date": "2025-04-05",
-        "description": "Intel XeSS DLL",
-        "technology": "XeSS"
-    },
-    "libxess_dx11.dll": {
-        "version": "2.0.1.41",
-        "date": "2025-04-01",
-        "description": "Intel XeSS DirectX 11 DLL",
-        "technology": "XeSS"
-    },
-    "sl.common.dll": {
-        "version": "2.8.0.0",
-        "date": "2025-06-20",
-        "description": "Streamline Shared Library",
-        "technology": "Streamline"
-    },
-    "sl.dlss.dll": {
-        "version": "2.8.0.0",
-        "date": "2025-06-20",
-        "description": "Streamline DLSS Super Resolution",
-        "technology": "Streamline"
-    },
-    "sl.dlss_g.dll": {
-        "version": "2.8.0.0",
-        "date": "2025-06-20",
-        "description": "Streamline DLSS Frame Generation",
-        "technology": "Streamline"
-    },
-    "sl.interposer.dll": {
-        "version": "2.8.0.0",
-        "date": "2025-06-20",
-        "description": "Streamline Graphics API Interception",
-        "technology": "Streamline"
-    },
-    "sl.pcl.dll": {
-        "version": "2.8.0.0",
-        "date": "2025-06-20",
-        "description": "Streamline Parameter/Platform Configuration",
-        "technology": "Streamline"
-    },
-    "sl.reflex.dll": {
-        "version": "2.8.0.0",
-        "date": "2025-06-20",
-        "description": "Streamline Reflex Low-Latency",
-        "technology": "Streamline"
-    },
-    "sl.nis.dll": {
-        "version": "2.8.0.0",
-        "date": "2025-06-20",
-        "description": "Streamline NIS Upscaling",
-        "technology": "Streamline"
-    },
-    "sl.dlss_d.dll": {
-        "version": "2.8.0.0",
-        "date": "2025-06-20",
-        "description": "Streamline DLSS Dynamic Resolution",
-        "technology": "Streamline"
-    },
-    "sl.directsr.dll": {
-        "version": "2.8.0.0",
-        "date": "2025-06-20",
-        "description": "Streamline Direct Super Resolution",
-        "technology": "Streamline"
-    },
-    "amd_fidelityfx_vk.dll": {
-        "version": "1.0.1.4314",
-        "date": "2025-05-18",
-        "description": "AMD FidelityFX Super Resolution (FSR) Vulkan DLL",
-        "technology": "FSR"
-    },
-    "amd_fidelityfx_dx12.dll": {
-        "version": "1.0.1.4314",
-        "date": "2025-05-18",
-        "description": "AMD FidelityFX Super Resolution (FSR) DirectX 12 DLL",
-        "technology": "FSR"
-    }
-}
+  {
+      "nvngx_dlss.dll": {
+          "version": "310.4.0.0",
+          "date": "2025-08-28",
+          "description": "NVIDIA DLSS Core DLL",
+          "technology": "DLSS"
+      },
+      "nvngx_dlssg.dll": {
+          "version": "310.4.0.0",
+          "date": "2025-08-28",
+          "description": "NVIDIA DLSS Frame Generation DLL",
+          "technology": "DLSS"
+      },
+      "nvngx_dlssd.dll": {
+          "version": "310.4.0.0",
+          "date": "2025-08-28",
+          "description": "NVIDIA DLSS Ray Reconstruction DLL",
+          "technology": "DLSS"
+      },
+      "dstorage.dll": {
+          "version": "1.3.2506.2501",
+          "date": "2025-08-28",
+          "description": "Microsoft DirectStorage DLL",
+          "technology": "DirectStorage"
+      },
+      "dstoragecore.dll": {
+          "version": "1.3.2506.2501",
+          "date": "2025-08-28",
+          "description": "Microsoft DirectStorage Core DLL",
+          "technology": "DirectStorage"
+      },
+      "libxess.dll": {
+          "version": "2.0.1.41",
+          "date": "2025-04-05",
+          "description": "Intel XeSS DLL",
+          "technology": "XeSS"
+      },
+      "libxess_dx11.dll": {
+          "version": "2.0.1.41",
+          "date": "2025-04-01",
+          "description": "Intel XeSS DirectX 11 DLL",
+          "technology": "XeSS"
+      },
+      "sl.common.dll": {
+          "version": "2.8.0.0",
+          "date": "2025-06-20",
+          "description": "Streamline Shared Library",
+          "technology": "Streamline"
+      },
+      "sl.dlss.dll": {
+          "version": "2.8.0.0",
+          "date": "2025-06-20",
+          "description": "Streamline DLSS Super Resolution",
+          "technology": "Streamline"
+      },
+      "sl.dlss_g.dll": {
+          "version": "2.8.0.0",
+          "date": "2025-06-20",
+          "description": "Streamline DLSS Frame Generation",
+          "technology": "Streamline"
+      },
+      "sl.interposer.dll": {
+          "version": "2.8.0.0",
+          "date": "2025-06-20",
+          "description": "Streamline Graphics API Interception",
+          "technology": "Streamline"
+      },
+      "sl.pcl.dll": {
+          "version": "2.8.0.0",
+          "date": "2025-06-20",
+          "description": "Streamline Parameter/Platform Configuration",
+          "technology": "Streamline"
+      },
+      "sl.reflex.dll": {
+          "version": "2.8.0.0",
+          "date": "2025-06-20",
+          "description": "Streamline Reflex Low-Latency",
+          "technology": "Streamline"
+      },
+      "sl.nis.dll": {
+          "version": "2.8.0.0",
+          "date": "2025-06-20",
+          "description": "Streamline NIS Upscaling",
+          "technology": "Streamline"
+      },
+      "sl.dlss_d.dll": {
+          "version": "2.8.0.0",
+          "date": "2025-06-20",
+          "description": "Streamline DLSS Dynamic Resolution",
+          "technology": "Streamline"
+      },
+      "sl.directsr.dll": {
+          "version": "2.8.0.0",
+          "date": "2025-06-20",
+          "description": "Streamline Direct Super Resolution",
+          "technology": "Streamline"
+      },
+      "amd_fidelityfx_vk.dll": {
+          "version": "1.0.1.4314",
+          "date": "2025-05-18",
+          "description": "AMD FidelityFX Super Resolution (FSR) Vulkan DLL",
+          "technology": "FSR"
+      },
+      "amd_fidelityfx_dx12.dll": {
+          "version": "1.0.2.44888",
+          "date": "2025-08-28",
+          "description": "AMD FidelityFX Super Resolution 4 (FSR4) DirectX 12 DLL (replaces FSR 3.x)",
+          "technology": "FSR",
+          "source_filename": "amd_fidelityfx_loader_dx12.dll",
+          "notes": "Downloaded as amd_fidelityfx_loader_dx12.dll, renamed to amd_fidelityfx_dx12.dll during installation"
+      },
+      "amd_fidelityfx_upscaler_dx12.dll": {
+          "version": "4.0.2.44888",
+          "date": "2025-08-28",
+          "description": "AMD FidelityFX Super Resolution 4 (FSR4) Upscaler DLL",
+          "technology": "FSR"
+      },
+      "amd_fidelityfx_framegeneration_dx12.dll": {
+          "version": "3.1.5.44888",
+          "date": "2025-08-28",
+          "description": "AMD FidelityFX Super Resolution 4 (FSR4) Frame Generation DLL",
+          "technology": "FSR"
+      },
+      "amd_fidelityfx_loader_dx12.dll": {
+          "version": "1.0.2.44888",
+          "date": "2025-08-28",
+          "description": "AMD FidelityFX Super Resolution 4 (FSR4) Loader DLL",
+          "technology": "FSR",
+          "install_as": "amd_fidelityfx_dx12.dll",
+          "notes": "This DLL is renamed to amd_fidelityfx_dx12.dll during installation"
+      }
+  }
