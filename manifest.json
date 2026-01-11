@@ -30,15 +30,27 @@
           "technology": "DirectStorage"
       },
       "libxess.dll": {
-          "version": "2.0.1.41",
-          "date": "2025-04-05",
-          "description": "Intel XeSS DLL",
+          "version": "2.0.2.68",
+          "date": "2026-01-11",
+          "description": "Intel XeSS Super Sampling",
           "technology": "XeSS"
       },
       "libxess_dx11.dll": {
-          "version": "2.0.1.41",
-          "date": "2025-04-01",
-          "description": "Intel XeSS DirectX 11 DLL",
+          "version": "2.0.2.68",
+          "date": "2026-01-11",
+          "description": "Intel XeSS Super Sampling (DirectX 11)",
+          "technology": "XeSS"
+      },
+      "libxess_fg.dll": {
+          "version": "1.2.2.118",
+          "date": "2026-01-11",
+          "description": "Intel XeSS Frame Generation SDK",
+          "technology": "XeSS"
+      },
+      "libxell.dll": {
+          "version": "1.2.1.13",
+          "date": "2026-01-11",
+          "description": "Intel XeLL Library",
           "technology": "XeSS"
       },
       "sl.common.dll": {
