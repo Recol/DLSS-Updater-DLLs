@@ -54,56 +54,56 @@
           "technology": "XeSS"
       },
       "sl.common.dll": {
-          "version": "2.8.0.0",
-          "date": "2025-06-20",
+          "version": "2.10.3.0",
+          "date": "2026-02-03",
           "description": "Streamline Shared Library",
           "technology": "Streamline"
       },
       "sl.dlss.dll": {
-          "version": "2.8.0.0",
-          "date": "2025-06-20",
+          "version": "2.10.3.0",
+          "date": "2026-02-03",
           "description": "Streamline DLSS Super Resolution",
           "technology": "Streamline"
       },
       "sl.dlss_g.dll": {
-          "version": "2.8.0.0",
-          "date": "2025-06-20",
+          "version": "2.10.3.0",
+          "date": "2026-02-03",
           "description": "Streamline DLSS Frame Generation",
           "technology": "Streamline"
       },
       "sl.interposer.dll": {
-          "version": "2.8.0.0",
-          "date": "2025-06-20",
+          "version": "2.10.3.0",
+          "date": "2026-02-03",
           "description": "Streamline Graphics API Interception",
           "technology": "Streamline"
       },
       "sl.pcl.dll": {
-          "version": "2.8.0.0",
-          "date": "2025-06-20",
+          "version": "2.10.3.0",
+          "date": "2026-02-03",
           "description": "Streamline Parameter/Platform Configuration",
           "technology": "Streamline"
       },
       "sl.reflex.dll": {
-          "version": "2.8.0.0",
-          "date": "2025-06-20",
+          "version": "2.10.3.0",
+          "date": "2026-02-03",
           "description": "Streamline Reflex Low-Latency",
           "technology": "Streamline"
       },
       "sl.nis.dll": {
-          "version": "2.8.0.0",
-          "date": "2025-06-20",
+          "version": "2.10.3.0",
+          "date": "2026-02-03",
           "description": "Streamline NIS Upscaling",
           "technology": "Streamline"
       },
       "sl.dlss_d.dll": {
-          "version": "2.8.0.0",
-          "date": "2025-06-20",
+          "version": "2.10.3.0",
+          "date": "2026-02-03",
           "description": "Streamline DLSS Dynamic Resolution",
           "technology": "Streamline"
       },
       "sl.directsr.dll": {
-          "version": "2.8.0.0",
-          "date": "2025-06-20",
+          "version": "2.10.3.0",
+          "date": "2026-02-03",
           "description": "Streamline Direct Super Resolution",
           "technology": "Streamline"
       },
