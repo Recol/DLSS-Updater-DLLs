@@ -48,8 +48,8 @@
           "technology": "XeSS"
       },
       "libxell.dll": {
-          "version": "1.3.0.5",
-          "date": "2026-04-22",
+          "version": "1.3.2.10",
+          "date": "2026-07-25",
           "description": "Intel XeLL Library",
           "technology": "XeSS"
       },
