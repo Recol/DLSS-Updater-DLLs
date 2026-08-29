@@ -3,7 +3,35 @@
         "version": "310.7.128.0",
         "date": "2026-08-21",
         "description": "NVIDIA DLSS Core DLL",
-        "technology": "DLSS"
+        "technology": "DLSS",
+        "feature": "dlss_sr",
+        "labels": [
+            [
+                "310.4",
+                "311",
+                "DLSS 4.5"
+            ],
+            [
+                "310",
+                "310.4",
+                "DLSS 4"
+            ],
+            [
+                "3",
+                "4",
+                "DLSS 3"
+            ],
+            [
+                "2",
+                "3",
+                "DLSS 2"
+            ],
+            [
+                "1",
+                "2",
+                "DLSS 1"
+            ]
+        ]
     },
     "nvngx_dlssg.dll": {
         "version": "310.7.128.0",
@@ -15,7 +43,20 @@
         "version": "310.7.128.0",
         "date": "2026-08-21",
         "description": "NVIDIA DLSS Ray Reconstruction DLL",
-        "technology": "DLSS"
+        "technology": "DLSS",
+        "feature": "dlss_rr",
+        "labels": [
+            [
+                "310",
+                "311",
+                "RR 4.5"
+            ],
+            [
+                "3.5",
+                "4",
+                "RR 3.5"
+            ]
+        ]
     },
     "dstorage.dll": {
         "version": "1.3.2506.2501",
@@ -33,13 +74,39 @@
         "version": "2.0.2.68",
         "date": "2026-01-11",
         "description": "Intel XeSS Super Sampling",
-        "technology": "XeSS"
+        "technology": "XeSS",
+        "feature": "xess_sr",
+        "labels": [
+            [
+                "2.0.2.68",
+                "2.1",
+                "XeSS 2.0"
+            ],
+            [
+                "1.3",
+                "2.0.2.68",
+                "XeSS 1.3"
+            ]
+        ]
     },
     "libxess_dx11.dll": {
         "version": "2.0.2.68",
         "date": "2026-01-11",
         "description": "Intel XeSS Super Sampling (DirectX 11)",
-        "technology": "XeSS"
+        "technology": "XeSS",
+        "feature": "xess_sr",
+        "labels": [
+            [
+                "2.0.2.68",
+                "2.1",
+                "XeSS 2.0"
+            ],
+            [
+                "1.3",
+                "2.0.2.68",
+                "XeSS 1.3"
+            ]
+        ]
     },
     "libxess_fg.dll": {
         "version": "1.3.1.78",
@@ -63,7 +130,8 @@
         "version": "2.12.128.0",
         "date": "2026-08-21",
         "description": "Streamline DLSS Super Resolution",
-        "technology": "Streamline"
+        "technology": "Streamline",
+        "feature": "dlss_sr"
     },
     "sl.dlss_g.dll": {
         "version": "2.12.128.0",
@@ -99,7 +167,8 @@
         "version": "2.12.128.0",
         "date": "2026-08-21",
         "description": "Streamline DLSS Dynamic Resolution",
-        "technology": "Streamline"
+        "technology": "Streamline",
+        "feature": "dlss_rr"
     },
     "sl.directsr.dll": {
         "version": "2.12.0.0",
@@ -123,7 +192,20 @@
         "version": "4.1.1.2740",
         "date": "2026-08-20",
         "description": "AMD FSR Upscaling 4.1.1 (FidelityFX SDK 2.3.0)",
-        "technology": "FSR"
+        "technology": "FSR",
+        "feature": "fsr_sr",
+        "labels": [
+            [
+                "4.1.1.2740",
+                "4.2",
+                "FSR 4.1"
+            ],
+            [
+                "4.0",
+                "4.1.1.2740",
+                "FSR 4.0"
+            ]
+        ]
     },
     "amd_fidelityfx_framegeneration_dx12.dll": {
         "version": "4.0.1.2740",
