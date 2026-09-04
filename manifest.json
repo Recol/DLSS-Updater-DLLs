@@ -1,7 +1,7 @@
 {
     "nvngx_dlss.dll": {
-        "version": "310.7.128.0",
-        "date": "2026-08-21",
+        "version": "310.9.0.0",
+        "date": "2026-09-04",
         "description": "NVIDIA DLSS Core DLL",
         "technology": "DLSS",
         "feature": "dlss_sr",
@@ -34,14 +34,14 @@
         ]
     },
     "nvngx_dlssg.dll": {
-        "version": "310.7.128.0",
-        "date": "2026-08-21",
+        "version": "310.9.0.0",
+        "date": "2026-09-04",
         "description": "NVIDIA DLSS Frame Generation DLL",
         "technology": "DLSS"
     },
     "nvngx_dlssd.dll": {
-        "version": "310.7.128.0",
-        "date": "2026-08-21",
+        "version": "310.9.0.0",
+        "date": "2026-09-04",
         "description": "NVIDIA DLSS Ray Reconstruction DLL",
         "technology": "DLSS",
         "feature": "dlss_rr",
@@ -121,21 +121,21 @@
         "technology": "XeSS"
     },
     "sl.common.dll": {
-        "version": "2.12.128.0",
-        "date": "2026-08-21",
+        "version": "2.14.0.0",
+        "date": "2026-09-04",
         "description": "Streamline Shared Library",
         "technology": "Streamline"
     },
     "sl.dlss.dll": {
-        "version": "2.12.128.0",
-        "date": "2026-08-21",
+        "version": "2.14.0.0",
+        "date": "2026-09-04",
         "description": "Streamline DLSS Super Resolution",
         "technology": "Streamline",
         "feature": "dlss_sr"
     },
     "sl.dlss_g.dll": {
-        "version": "2.12.128.0",
-        "date": "2026-08-21",
+        "version": "2.14.0.0",
+        "date": "2026-09-04",
         "description": "Streamline DLSS Frame Generation",
         "technology": "Streamline"
     },
@@ -146,26 +146,26 @@
         "technology": "Streamline"
     },
     "sl.pcl.dll": {
-        "version": "2.12.128.0",
-        "date": "2026-08-21",
+        "version": "2.14.0.0",
+        "date": "2026-09-04",
         "description": "Streamline Parameter/Platform Configuration",
         "technology": "Streamline"
     },
     "sl.reflex.dll": {
-        "version": "2.12.128.0",
-        "date": "2026-08-21",
+        "version": "2.14.0.0",
+        "date": "2026-09-04",
         "description": "Streamline Reflex Low-Latency",
         "technology": "Streamline"
     },
     "sl.nis.dll": {
-        "version": "2.12.0.0",
-        "date": "2026-06-24",
+        "version": "2.14.0.0",
+        "date": "2026-09-04",
         "description": "Streamline NIS Upscaling",
         "technology": "Streamline"
     },
     "sl.dlss_d.dll": {
-        "version": "2.12.128.0",
-        "date": "2026-08-21",
+        "version": "2.14.0.0",
+        "date": "2026-09-04",
         "description": "Streamline DLSS Dynamic Resolution",
         "technology": "Streamline",
         "feature": "dlss_rr"
