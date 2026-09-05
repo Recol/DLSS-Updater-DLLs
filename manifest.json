@@ -58,6 +58,21 @@
             ]
         ]
     },
+    "nvngx_dlssnr.dll": {
+        "version": "310.8.0.0",
+        "date": "2026-09-06",
+        "description": "NVIDIA DLSS 5 Neural Rendering DLL",
+        "technology": "DLSS",
+        "feature": "dlss_nr",
+        "url": "https://github.com/Recol/DLSS-Updater-DLLs/releases/download/nvngx_dlssnr-310.8.0.0/nvngx_dlssnr.dll",
+        "labels": [
+            [
+                "310",
+                "311",
+                "DLSS 5"
+            ]
+        ]
+    },
     "dstorage.dll": {
         "version": "1.3.2506.2501",
         "date": "2025-08-28",

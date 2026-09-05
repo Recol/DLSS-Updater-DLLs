@@ -1,0 +1,15 @@
+# DLLs too large to commit.
+#
+# GitHub rejects any pushed file over 100 MiB. nvngx_dlssnr.dll (DLSS 5 Neural
+# Rendering) is ~158 MiB, so it ships as a release asset instead and the client
+# finds it through the "url" key on its manifest.json entry.
+#
+# Git LFS is not an option: raw.githubusercontent.com serves the LFS pointer
+# text rather than the binary, which the client would cache as the DLL.
+#
+# Keep the file in dlls/ locally so it sits alongside the others - just never
+# commit it. To publish a new build:
+#   gh release create nvngx_dlssnr-<version> dlls/nvngx_dlssnr.dll \
+#     --repo Recol/DLSS-Updater-DLLs --title "nvngx_dlssnr.dll <version>"
+# then update both "version" and "url" in manifest.json.
+dlls/nvngx_dlssnr.dll
