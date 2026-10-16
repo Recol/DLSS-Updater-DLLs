@@ -1,7 +1,7 @@
 {
     "nvngx_dlss.dll": {
-        "version": "310.9.1.0",
-        "date": "2026-09-14",
+        "version": "310.9.16.0",
+        "date": "2026-10-17",
         "description": "NVIDIA DLSS Core DLL",
         "technology": "DLSS",
         "feature": "dlss_sr",
@@ -34,14 +34,14 @@
         ]
     },
     "nvngx_dlssg.dll": {
-        "version": "310.9.1.0",
-        "date": "2026-09-14",
+        "version": "310.9.16.0",
+        "date": "2026-10-17",
         "description": "NVIDIA DLSS Frame Generation DLL",
         "technology": "DLSS"
     },
     "nvngx_dlssd.dll": {
-        "version": "310.9.1.0",
-        "date": "2026-09-14",
+        "version": "310.9.16.0",
+        "date": "2026-10-17",
         "description": "NVIDIA DLSS Ray Reconstruction DLL",
         "technology": "DLSS",
         "feature": "dlss_rr",
