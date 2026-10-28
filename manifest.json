@@ -194,7 +194,7 @@
     "amd_fidelityfx_vk.dll": {
         "version": "1.0.1.41314",
         "date": "2025-05-18",
-        "description": "AMD FidelityFX Vulkan Library (SDK 1.1.4 monolith; no SDK 2.x release ships a Vulkan build)",
+        "description": "AMD FidelityFX Vulkan Library (SDK 1.1.4 monolith, FSR 3.1; FSR 4 clients install amd_fidelityfx_loader_vk.dll under this name)",
         "technology": "FSR"
     },
     "amd_fidelityfx_dx12.dll": {
@@ -204,9 +204,9 @@
         "technology": "FSR"
     },
     "amd_fidelityfx_upscaler_dx12.dll": {
-        "version": "4.1.1.2740",
-        "date": "2026-08-20",
-        "description": "AMD FSR Upscaling 4.1.1 (FidelityFX SDK 2.3.0)",
+        "version": "4.1.2.4555",
+        "date": "2026-10-28",
+        "description": "AMD FSR Upscaling 4.1.2 (FidelityFX SDK 2.4.0)",
         "technology": "FSR",
         "feature": "fsr_sr",
         "labels": [
@@ -223,27 +223,58 @@
         ]
     },
     "amd_fidelityfx_framegeneration_dx12.dll": {
-        "version": "4.0.1.2740",
-        "date": "2026-08-20",
-        "description": "AMD FSR Frame Generation 4.0.1 (FidelityFX SDK 2.3.0)",
+        "version": "4.0.2.4555",
+        "date": "2026-10-28",
+        "description": "AMD FSR Frame Generation 4.0.2 (FidelityFX SDK 2.4.0)",
         "technology": "FSR"
     },
     "amd_fidelityfx_loader_dx12.dll": {
-        "version": "2.3.0.2740",
-        "date": "2026-08-20",
-        "description": "AMD FSR Loader (FidelityFX SDK 2.3.0); installed as amd_fidelityfx_dx12.dll",
+        "version": "2.3.0.4555",
+        "date": "2026-10-28",
+        "description": "AMD FSR Loader (FidelityFX SDK 2.4.0); installed as amd_fidelityfx_dx12.dll",
+        "technology": "FSR"
+    },
+    "amd_fidelityfx_upscaler_vk.dll": {
+        "version": "4.1.2.4555",
+        "date": "2026-10-28",
+        "description": "AMD FSR Upscaling 4.1.2, Vulkan (FidelityFX SDK 2.4.0)",
+        "technology": "FSR",
+        "feature": "fsr_sr",
+        "labels": [
+            [
+                "4.1.1.2740",
+                "4.2",
+                "FSR 4.1"
+            ],
+            [
+                "4.0",
+                "4.1.1.2740",
+                "FSR 4.0"
+            ]
+        ]
+    },
+    "amd_fidelityfx_framegeneration_vk.dll": {
+        "version": "4.0.2.4555",
+        "date": "2026-10-28",
+        "description": "AMD FSR Frame Generation 4.0.2, Vulkan (FidelityFX SDK 2.4.0)",
+        "technology": "FSR"
+    },
+    "amd_fidelityfx_loader_vk.dll": {
+        "version": "1.0.2.4555",
+        "date": "2026-10-28",
+        "description": "AMD FSR Vulkan Loader (FidelityFX SDK 2.4.0); installed as amd_fidelityfx_vk.dll",
         "technology": "FSR"
     },
     "amd_fidelityfx_denoiser_dx12.dll": {
-        "version": "1.2.0.2740",
-        "date": "2026-08-20",
-        "description": "AMD FSR Ray Regeneration 1.2.0 (FidelityFX SDK 2.3.0)",
+        "version": "1.2.1.4555",
+        "date": "2026-10-28",
+        "description": "AMD FSR Ray Regeneration 1.2.1 (FidelityFX SDK 2.4.0)",
         "technology": "FSR"
     },
     "amd_fidelityfx_radiancecache_dx12.dll": {
-        "version": "0.9.0.2740",
-        "date": "2026-08-20",
-        "description": "AMD FSR Radiance Caching 0.9.0 PREVIEW (FidelityFX SDK 2.3.0)",
+        "version": "0.9.0.4555",
+        "date": "2026-10-28",
+        "description": "AMD FSR Radiance Caching 0.9.0 PREVIEW (FidelityFX SDK 2.4.0)",
         "technology": "FSR",
         "preview": true
     }
